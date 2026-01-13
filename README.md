@@ -55,5 +55,7 @@ Dashboard Preview:
 Screenshots of the dashboard and data model are available in the 'screenshots/' folder for quick review.
 
 Author
+
 Padma Sai Vayigandla
+
 Data Science Learner
